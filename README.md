@@ -6,7 +6,7 @@ for PART 2 see Prerender Server Repo link here - [here](https://github.com/prere
 In terminal, run
 <code> git clone git@github.com:evanjmg/Angular-SEO-Prerender.git </code>
 <p></p>
-<code> cd /angular-seo-prerender</code>
+<code> cd angular-seo-prerender</code>
 <p></p>
 <code> npm install </code>
 <p></p>
