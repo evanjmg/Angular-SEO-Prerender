@@ -1,5 +1,5 @@
 # Make an SEO friendly Angular App with Prerender and Node.js
-See the Tutorial here to learn how it all works: TBA
+See the Tutorial here to learn how it all works: [http://evanjmg.com/code/2015/10/18/SEO-Friendly-Angular-with-Prerender.html](http://evanjmg.com/code/2015/10/18/SEO-Friendly-Angular-with-Prerender.html)
 This is PART 1 - How to make Angular work with Prerender.io in Node.js 
 for PART 2 see Prerender Server Repo link here - [here](https://github.com/prerender/prerender)
 ## Setup
